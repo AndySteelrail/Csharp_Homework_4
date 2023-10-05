@@ -1,0 +1,8 @@
+*.sln
+*.json
+*.exe
+*.dll
+*.pdb
+*.props
+*.targets
+*.csproj
